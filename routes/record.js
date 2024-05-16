@@ -14,7 +14,7 @@ const connection = mysql.createConnection({
     host: '34.34.216.183',
     user: 'root',
     database: 'mymoney',
-    password: 'D?_?\@@F{YKsKf8T'
+    password: '>|TU0&s/4rYsl_[X'
 })
 
 router.get("/dashboard", (req, res) => {
